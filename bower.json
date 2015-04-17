@@ -1,0 +1,16 @@
+{
+  "name": "PreloadIt",
+  "version": "1.0.0",
+  "authors": [
+    "rharriso <rtharrison86@gmail.com>"
+  ],
+  "description": "Takes a set of urls and preloads the files using ajax.",
+  "main": "src/preloadit.js.coffee",
+  "keywords": [
+    "Preload",
+    "files",
+    "ajax"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/42dev/preloadit"
+}
